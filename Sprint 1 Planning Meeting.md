@@ -1,6 +1,13 @@
+# Meeting Result
+1. name: tUWitter
+2. Tech Stack: React JS + TBD(wait for voting)
+3. Dev tools: github  + circle CI/CD + AWS 
+4. Rotation: people take the roles in turn. front-end dev, back-end dev, testing dev, product manager.
+ 
+
+
 # Sprint 1 Planning Meeting
 15:00-15:30, 17/01/2022
-
 
 ## Logistics (15 mins)
 ### Naming (Need voting and ideas)
