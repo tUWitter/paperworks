@@ -21,7 +21,7 @@ ReactJS
 * Deheon Kim: have some experience in frontend.
 * Fan Zhang: product management, Android, Golang, Kotlin, Java, Python and C++; Google Cloud Platform.
 * Keyu Wu: have some experience in backend development; proficient with golang, python, sql, redis.
-* Umang Ajwalia: proficient in MongoDB, Express JS, React JS, Node JS and Python.
+* Umang Rajeshbhai Ajwalia: proficient in MongoDB, Express JS, React JS, Node JS and Python.
 * Yashvi Rakeshkumar Patel: Project Management, Computer Network, Cloud systems.
 
 ## Project Idea Brainstorming
