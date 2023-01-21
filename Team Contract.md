@@ -36,6 +36,7 @@ Day, time, place and frequency for regular team meetings: We will keep our meeti
 Punctuality and participation at team meetings: We would rotate the roles of leadership in every sprint and that team member would be responsible for making the agenda and would set up a meeting for the same.
 Method for setting and following meeting agenda and note taking: The team leader for that particular sprint would be responsible for the meeting agenda and assigning the tasks to the SCRUM board. He/she would also be responsible for taking short notes regarding all the discussions and decisions if any.
 Procedures in the absence of a team member: Firstly, we would make sure to come up with a meeting time that is favorable to each and every team member. In any circumstances, a team member is not able to catch up the meeting the team leader for that sprint would be responsible for updating the absent team member. And all the meeting minutes would be shared via email by the team leader.
+
 C. Discuss Team and Individual Expectations:
      What are the team’s expectations
 The desired goal of the project: We aim to build an anonymous web application that helps UW students across campus to engage with each other anonymously. In addition to that, we ensure to follow the best software agile practices and all the methodologies throughout our project.
@@ -52,7 +53,6 @@ In general, as a team, we value open communication and cooperation. We are aware
 In case of infractions: We understand that infractions with a teammate can have a negative impact on the overall success of the project. Therefore, we will adopt repercussions to address the issue if transgressions persist after first addressing and support.
 The repercussions will depend on how serious the violation was and how it affected the project. In some instances, if the offenses are small, we could provide the person with extra assistance and direction to help them get over their obstacles. We might need to reassign their portion of the project to another team member if the violations are more serious.
 For grades, we recognize that final decision-making rests with the Professor. However, if infractions persist, we think it is only fair to penalize the individual with a lower mark for their lack of involvement or effort. This, in our opinion, is a just and impartial technique to make sure that everyone is held responsible for their part in the project.
-
 
 
 
