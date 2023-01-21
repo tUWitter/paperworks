@@ -1,5 +1,5 @@
-## Team Contract
-# tUWitter
+# Team Contract
+## tUWitter
 
 A. Team Leadership & Communication:
 Team Leadership/Roles: We will rotate the leadership roles in every sprint so that every team member gets an experience of leadership as well as get to know about each and every module.
