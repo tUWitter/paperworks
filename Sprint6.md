@@ -7,6 +7,7 @@
 - Redirect non-logged in users
 - Add email suffix check
 - Complete Email verification front-end
+- Integration ( approve pull request to deploy the app )
 
 ## Future Task
 - Fix layout and improve the website design 
@@ -15,7 +16,6 @@
 
 ## Presentation Prep
 - Add test cases for front end
-- Integration ( approve pull request to deploy the app )
 - Prep presentation slides
 - Rehearsal on WED (MS Group Call)
 - Debug
