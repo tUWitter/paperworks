@@ -14,7 +14,7 @@
 
 ## Presentation Prep
 - Add test cases for front end
-- Integration
+- Integration ( approve pull request to deploy the app )
 - Prep presentation slides
 - Rehearsal on WED (MS Group Call)
 
