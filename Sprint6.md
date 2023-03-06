@@ -17,6 +17,7 @@
 - Integration ( approve pull request to deploy the app )
 - Prep presentation slides
 - Rehearsal on WED (MS Group Call)
+- Debug
 
 
 
