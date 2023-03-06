@@ -3,10 +3,12 @@
 ## What we have achieved?
 
 - Allow users to like posts.
-- Enable users to comment on posts with the option to do so anonymously.
-- Fix layout and improve the website design 
+- Enable users to comment on posts.
 - Redirect non-logged in users
 - Add email suffix check
+
+## Future Task
+- Fix layout and improve the website design 
 
 # Sprint 6 Planning
 
