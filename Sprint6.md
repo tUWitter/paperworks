@@ -6,6 +6,7 @@
 - Enable users to comment on posts.
 - Redirect non-logged in users
 - Add email suffix check
+- Complete Email verification front-end
 
 ## Future Task
 - Fix layout and improve the website design 
