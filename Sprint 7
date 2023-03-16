@@ -1,0 +1,22 @@
+Sprint 7 tUWitter Meeting
+
+Prof. feedback `Overall: good progress so far; polish the functionality and beef up the testing, including code coverage reports`
+
+What we have achieved so far? {functionality wise}
+- Signup & Login
+- Basic Message Posting
+- Likes & replies to post
+- Deployed on `tuwitter.social`
+
+Expected outcomes of this Sprint 7:
+Features
+- Add feature to post anonymously {frontend} [Umang]
+- Add feature to comment/reply anonymously {backend + frontend} [Keyu] [Yashvi]
+- Add feature to bookmark a post {backend + frontend} [Chucks and Fan] [Umang]
+- Fetch user details in Navbar bottom {frontend} [Yashvi]
+Fixes
+- Fix Reply layout design as well as add option to comment anonymously {frontend} [Umang]
+- Fix View Profile Page {frontend} [Kim]
+- Fix CSS of post to adjust date posted {frontend} [Umang]
+- Bug in Email verification page CORS [Umang and Yashvi]
+- Frontend Testing [Kim]
